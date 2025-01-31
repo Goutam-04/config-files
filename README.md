@@ -26,8 +26,8 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 ### Basic Settings
 
-Create `~/.config/nvim/init.vim` with: vim
-
+Create `~/.config/nvim/init.vim` 
+Open init.vim with vim
 Copy the `init.vim` file from the repo to init.vim of your local machine
 
 ### Post-Installation

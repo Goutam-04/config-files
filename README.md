@@ -2,7 +2,7 @@
 # Neovim Configuration Guide
 
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Install Neovim (v0.9+)
 ```bash
@@ -22,7 +22,7 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 
 
-## 🔧 Configuration
+## Configuration
 
 ### Basic Settings
 
